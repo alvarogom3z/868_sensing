@@ -1,12 +1,43 @@
-With the advance of wireless technologies and detection techniques, several studies have shown the effectiveness of wireless signals to identify human activities. This has enabled the development of diverse applications, such as intrusion detection or action recognition. 
-The movements of the human body influence the propagation of the wireless signal, which creates new possibilities for capturing and analyzing these movements by processing the received signals.
+📡 Presence Detection System using RF Signal Changes Development, Optimization and Performance Analysis
+
+🎓 Master's Thesis 2024–2025
+
+👤 Author: Álvaro Gómez Pavón
+
+🎓 Advisors: Luis Felipe Vélez Flores & Miguel Gómez Irusta
+
+🧑‍🏫 Supervisor: Alvaro Araujo Pinto
 
 
-This master’s thesis continues the project started in the author’s final degree project in 2023. Its objective was to explore various methods for detecting presence and motion by analyzing changes in radio frequency signals. 
-The study focused specifically on signals at a frequency in the 868 MHz band. Following the promising results, this master’s thesis was conceived as a continuation of that work, with the new objective of implementing the whole study and the developed system on the Securitas Direct devices.
+
+📘 Overview
+
+With the advancement of wireless communication and sensing technologies, radio frequency (RF) signals have emerged as a powerful tool to detect human activity without the need for cameras or physical contact. Movements of the human body influence wireless signal propagation, enabling innovative applications in fields such as: Intrusion detection, human presence and motion recognition or ambient intelligence and smart environments. This master's thesis builds upon the author’s 2023 undergraduate research, enhancing and extending the initial work to real-world applications.
+
+🎯 Project Objective
+
+The goal of this project is the design, optimization, and deployment of a presence detection system based on RF signal analysis, operating in the 868 MHz frequency band. This includes:
+
+  Evaluating multiple signal processing techniques
+  Applying machine learning algorithms (KNN, K-means) for classification
+  Implementing the final solution on embedded hardware platforms used by Securitas Direct
 
 
-This project has been carried out at the Securitas Direct Verisure university chair at the Escuela Técnica Superior de Ingenieros de Telecomunicación of the Universidad Politécnica de Madrid, within a scholarship program focused on areas of interest for the company and that complements the training of the university students.
+🏢 Industrial Collaboration
 
+This work has been developed within the Securitas Direct Verisure University Chair, in collaboration with the Escuela Técnica Superior de Ingenieros de Telecomunicación at Universidad Politécnica de Madrid (UPM).
+It is part of a scholarship program aligned with the company's innovation interests, contributing to real-world R&D in the field of RF sensing and security.
 
-Keywords: Human presence detection, Radio Frequency (RF) sensing, Intrusion detection, Machine Learning, K-Nearest Neighbors (KNN), K-means, Embedded systems, Securitas Direct, C++ implementation.
+🔧 Technologies Used
+
+C++ for embedded system implementation
+Python for data processing and model prototyping
+    Machine Learning:
+    K-Nearest Neighbors (KNN)
+    K-Means Clustering
+Hardware: Embedded systems compatible with Securitas Direct devices
+Signal Processing techniques for RF data preprocessing
+
+🧠 Keywords
+
+Human Presence Detection • RF Sensing • 868 MHz • Intrusion Detection • KNN • K-means • Embedded Systems • C++ • Machine Learning • Securitas Direct
