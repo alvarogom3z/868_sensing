@@ -1,0 +1,2 @@
+/usr/bin/ar qc libknn_library.a CMakeFiles/knn_library.dir/src/CSV_reader.cpp.o CMakeFiles/knn_library.dir/src/KNN.cpp.o
+/usr/bin/ranlib libknn_library.a

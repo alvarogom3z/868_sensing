@@ -1,0 +1,5 @@
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/build/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/build/CMakeFiles/edit_cache.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/build/kmeans_Lloyd/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/build/kmeans_Lloyd/CMakeFiles/kmeans_Lloyd_ex.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/build/kmeans_Lloyd/CMakeFiles/edit_cache.dir

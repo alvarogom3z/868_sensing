@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkmeans_lib.a CMakeFiles/kmeans_lib.dir/src/CSV_reader.cpp.o CMakeFiles/kmeans_lib.dir/src/main.cpp.o
+/usr/bin/ranlib libkmeans_lib.a

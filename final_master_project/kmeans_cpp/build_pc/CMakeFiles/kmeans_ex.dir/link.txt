@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/kmeans_ex.dir/src/CSV_reader.cpp.o CMakeFiles/kmeans_ex.dir/src/main.cpp.o -o kmeans_ex  libkmeans_lib.a 

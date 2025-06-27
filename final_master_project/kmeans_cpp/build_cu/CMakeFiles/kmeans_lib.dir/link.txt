@@ -1,0 +1,2 @@
+/home/alvaro/Desktop/Securitas_Direct/SDK/sysroots/x86_64-hadessdk-linux/usr/bin/arm-fslc-linux-gnueabi/arm-fslc-linux-gnueabi-ar qc libkmeans_lib.a  CMakeFiles/kmeans_lib.dir/src/CSV_reader.cpp.o CMakeFiles/kmeans_lib.dir/src/main.cpp.o
+/home/alvaro/Desktop/Securitas_Direct/SDK/sysroots/x86_64-hadessdk-linux/usr/bin/arm-fslc-linux-gnueabi/arm-fslc-linux-gnueabi-ranlib libkmeans_lib.a

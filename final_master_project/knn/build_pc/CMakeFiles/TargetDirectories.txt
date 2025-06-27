@@ -1,0 +1,8 @@
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/knn_library.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/knn_executable.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/edit_cache.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/list_install_components.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/install.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/install/local.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/knn_library/build_pc/CMakeFiles/install/strip.dir

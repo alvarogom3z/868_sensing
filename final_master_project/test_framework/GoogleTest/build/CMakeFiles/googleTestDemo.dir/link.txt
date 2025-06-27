@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\googleTestDemo.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\googleTestDemo.dir/objects.a @CMakeFiles\googleTestDemo.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\googleTestDemo.dir/objects.a -Wl,--no-whole-archive -o googleTestDemo.exe -Wl,--out-implib,libgoogleTestDemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\googleTestDemo.dir\linkLibs.rsp

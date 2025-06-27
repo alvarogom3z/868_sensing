@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -pipe -g -feliminate-unused-debug-types  CMakeFiles/knn_executable.dir/src/main.cpp.o -o knn_executable  libknn_library.a 

@@ -1,0 +1,4 @@
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/kmeans_cpp/build_pc/CMakeFiles/kmeans_lib.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/kmeans_cpp/build_pc/CMakeFiles/kmeans_ex.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/kmeans_cpp/build_pc/CMakeFiles/edit_cache.dir
+/home/alvaro/Desktop/Securitas_Direct/sensing/c++/kmeans_cpp/build_pc/CMakeFiles/rebuild_cache.dir
