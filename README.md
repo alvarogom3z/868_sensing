@@ -1,6 +1,6 @@
 📡 Presence Detection System using RF Signal Changes Development, Optimization and Performance Analysis
 
-🎓 Master's Thesis 2024–2025
+🎓 Final Degreeproject & Master's Thesis 2023–2025
 
 👤 Author: Álvaro Gómez Pavón
 
